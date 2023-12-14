@@ -1,5 +1,5 @@
 - id: nocommit
   name: nocommit
   description: "nocommit prevents you from commiting something you will regret about."
-  entry: check.sh
+  entry: bash check.sh
   language: script
